@@ -1,4 +1,10 @@
-## Hi there 👋
+## Bem vindo ao meu perfil 🌟
+Meu nome é Rayssa Vitoria Oliveira dos Santos
+Sou aluna da plataforma Alura
+utilizo esse espaço para compartilhamento de projeito realizado em aula 
+
+## Para entrar em contato 📪
+00001092419093sp@al.educacao.sp.gov.br
 
 <!--
 **RAYSSASAN3S2024/RAYSSASAN3S2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +18,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...Sou aluna 
 -->
