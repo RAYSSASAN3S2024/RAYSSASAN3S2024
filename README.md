@@ -1,9 +1,13 @@
 ## Bem vindo ao meu perfil 🌟
+
 Meu nome é Rayssa Vitoria Oliveira dos Santos
+
 Sou aluna da plataforma Alura
+
 utilizo esse espaço para compartilhamento de projeito realizado em aula 
 
 ## Para entrar em contato 📪
+
 00001092419093sp@al.educacao.sp.gov.br
 
 <!--
